@@ -33,14 +33,12 @@ form .field input[type=number] {
   color: #6C6C80;
 }
 
-
-
 form .field input::placeholder {
   color: #A0A0B2;
 }
 
 form .field label {
-
+  
   font-size: 14px;
   margin-top: 20px;
 }
